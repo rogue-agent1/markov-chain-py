@@ -1,2 +1,5 @@
 # markov-chain-py
-Zero-dependency Python implementation.
+
+Markov chain simulation with stationary distribution
+
+Zero-dependency Python. Stdlib only.
